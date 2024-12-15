@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import { useRef } from 'react';
 import { Upload, ImagePlus } from 'lucide-react';
 import Button from '../common/Button';
 

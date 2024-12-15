@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import DropZone from '../components/Upload/DropZone';
 import ImagePreview from '../components/Upload/ImagePreview';
 import UploadActions from '../components/Upload/UploadActions';
